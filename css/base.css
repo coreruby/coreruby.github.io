@@ -200,6 +200,7 @@ a {
       margin-left: -60px;
       border-radius: 4px; }
     .content .meta .copy {
+      font-family: DOS, Monaco, Menlo, Consolas, "Courier New", monospace; }
       padding-left: 60px; }
     .content .meta iframe {
       padding-left: 5px; }

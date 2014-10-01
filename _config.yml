@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Core Ruby
+url: http://hachbulgaria.com/ruby
+description: The Hack Bulgaria class for everything Ruby
+twitter: coreruby

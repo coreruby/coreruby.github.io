@@ -128,6 +128,11 @@ a {
     padding: 3px;
     border: 1px solid #eeeeee;
     max-width: 100%; }
+    .content img.inline {
+      padding: 0;
+      margin: 0;
+      border: none;
+      max-width: 100%; }
   .content hr {
     border: 0;
     height: 6px;

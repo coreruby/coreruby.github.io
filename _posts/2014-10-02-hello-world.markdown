@@ -11,5 +11,5 @@ are!
 puts "Hello World"
 ```
 
-Keep up with this site as we'll be posting all the materials at it. Let all the
+Keep up with this site as we'll be posting all the materials at it. May all the
 rubies be with you!

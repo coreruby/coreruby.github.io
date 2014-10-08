@@ -1,0 +1,9 @@
+---
+layout: post
+title: Lecture 01
+category: posts
+---
+
+The first lecture is available online. You can read it [here].
+
+[here]: /lecture-01

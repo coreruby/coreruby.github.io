@@ -20,6 +20,7 @@ Maybe you asked for help on some forum and got pointed to a long
 article with lots of formulas that didn’t seem to help with your
 problem.
 
-[Here] is a [website][Here] that can help you with all things float.
+[floating-point-gui.de] is a website that can help you with all
+things float. Give it a spin :)
 
-[here]: /lecture-01
+[floating-point-gui.de]: http://floating-point-gui.de/

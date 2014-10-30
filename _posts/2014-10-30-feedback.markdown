@@ -1,0 +1,20 @@
+---
+layout: post
+title: Feedback
+category: posts
+---
+
+Please, help us make the class better by filling out
+this [form][].
+
+Don't like the exercises? Speak up and we'll try to
+give you more interesting or challenging ones.
+
+Don't like the lectures? Do you think they are lousy or
+unhelpful? Speak up and we'll try to put more time into
+them.
+
+Seriously, be brutally honest. It will help us a great
+deal.
+
+[form]: https://docs.google.com/forms/d/1VAyXVrQZPJF7yJYGikC3S_z3VuAQWALfcb-uJnKO_bE/viewform

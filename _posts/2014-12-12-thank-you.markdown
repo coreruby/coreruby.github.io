@@ -1,0 +1,47 @@
+---
+layout: post
+title: Thank You
+category: posts
+---
+
+It has been an amazing 2 months and our cozy little Ruby class has come to an
+end.
+
+## The Sponsors
+
+I wanna thank all of our partners for making this class possible.
+
+Shout-out to [laptop.bg][] and Software Society for sponsoring the class. Big
+hugs to [GitHub][], who sent us the wonderful swag we were able to give to our
+lovely students.
+
+## The People
+
+A lot of great folks got involved with the class. Let's start with [Radoslav
+Georgiev][] for the great [HackBulgaria][] organization and the belief for a
+better IT education in Bulgaria.
+
+Kudos to my friends Akseniya Penkova and [Stanislav Gatev][] for covering
+me for a week and keeping the class moving.
+
+Special thanks go to [Radoslav Stankov][] and [Bozhidar Batsov][] for their
+awesome guest lectures and <3 to the [FMI Ruby][] class for the exercises we
+borrowed.
+
+## The Students
+
+Last, but not least, I wanna thank all the students who kept the spark going.
+Let's keep in touch!
+
+![game over](/images/game_over.jpg)
+
+See you in Ruby land, all!
+
+[laptop.bg]: http://laptop.com/
+[GitHub]: https://github.com/
+[HackBulgaria]: https://hackbulgaria.com/
+[FMI Ruby]: http://fmi.ruby.bg/
+[Radoslav Stankov]: http://rstankov.com/
+[Radoslav Georgiev]: http://radorado.me/
+[Bozhidar Batsov]: http://batsov.com/
+[Stanislav Gatev]: https://s2gatev.com/

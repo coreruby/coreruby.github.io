@@ -14,7 +14,7 @@ required.
 The internship offers you a 4 hour workday with a flexible schedule,
 personalized for your lectures and exams.
 
-[laptop.bg][] is working successfully with Ruby on Rails for 5 years. In that,
+[laptop.bg][] is working successfully with Ruby on Rails for 5 years. In that
 time, they have learnt that sharing the experience, the meeting of new people
 and the joy of programming lead to wonderful results.
 
